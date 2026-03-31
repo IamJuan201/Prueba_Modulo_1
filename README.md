@@ -15,9 +15,9 @@ It includes try/except data validation to prevent errors.
 ## Project structure
 MODULE_1_TEST
 
-│── Gestion_de_Estudiantes.py           # Main program
+│── Students_management.py           # Main program
 
-│── funciones_gestion_estudiantes.py    # functions program
+│── student_management_functions.py    # functions program
 
 │── README.md
 
